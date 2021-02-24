@@ -1,3 +1,4 @@
-public class HelloWolrd {
-
+public class HelloWorld {
+  public HelloWorld() {
+  }
 }
